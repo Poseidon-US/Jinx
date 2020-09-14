@@ -1,2 +1,2 @@
-# Seeker
-Platform Validation Code
+# Jinx CI Validation Utility
+Pluggable Platform Validation Engine
